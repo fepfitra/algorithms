@@ -10,7 +10,7 @@
 
 [Y] Prime Number Generation: Write a program to generate a list of prime numbers up to a given limit.
 
-Sorting Algorithms: Implement and compare various sorting algorithms like Bubble Sort, Quick Sort, Merge Sort, and Insertion Sort.
+[Yna] Sorting Algorithms: Implement and compare various sorting algorithms like Bubble Sort, Quick Sort, Merge Sort, and Insertion Sort.
 
 Binary Search: Implement a binary search algorithm to find an element in a sorted array.
 
