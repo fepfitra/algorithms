@@ -4,7 +4,7 @@
 
 [Y] Anagram Detection: Determine if two given strings are anagrams of each other.
 
-Factorial Calculation: Write a function to calculate the factorial of a number both iteratively and recursively.
+[Y] Factorial Calculation: Write a function to calculate the factorial of a number both iteratively and recursively.
 
 Fibonacci Sequence: Generate the Fibonacci sequence up to a specified number, either using recursion or iteration.
 
