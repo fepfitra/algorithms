@@ -6,7 +6,7 @@
 
 [Y] Factorial Calculation: Write a function to calculate the factorial of a number both iteratively and recursively.
 
-Fibonacci Sequence: Generate the Fibonacci sequence up to a specified number, either using recursion or iteration.
+[Y] Fibonacci Sequence: Generate the Fibonacci sequence up to a specified number, either using recursion or iteration.
 
 Prime Number Generation: Write a program to generate a list of prime numbers up to a given limit.
 
