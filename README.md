@@ -1,6 +1,6 @@
 # algorithms
 
-Palindrome Detection: Write a program to determine whether a given string is a palindrome (reads the same backward as forward).
+[Y] Palindrome Detection: Write a program to determine whether a given string is a palindrome (reads the same backward as forward).
 
 Anagram Detection: Determine if two given strings are anagrams of each other.
 
