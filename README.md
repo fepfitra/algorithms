@@ -1,7 +1,5 @@
 # algorithms
 
-FizzBuzz: A classic introductory problem that involves printing numbers and substituting multiples of 3 and 5 with "Fizz" and "Buzz," respectively.
-
 Palindrome Detection: Write a program to determine whether a given string is a palindrome (reads the same backward as forward).
 
 Anagram Detection: Determine if two given strings are anagrams of each other.
