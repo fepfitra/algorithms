@@ -8,7 +8,7 @@
 
 [Y] Fibonacci Sequence: Generate the Fibonacci sequence up to a specified number, either using recursion or iteration.
 
-Prime Number Generation: Write a program to generate a list of prime numbers up to a given limit.
+[Y] Prime Number Generation: Write a program to generate a list of prime numbers up to a given limit.
 
 Sorting Algorithms: Implement and compare various sorting algorithms like Bubble Sort, Quick Sort, Merge Sort, and Insertion Sort.
 
